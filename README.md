@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **25shrestha97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FC4K3E9eX3ZkbbbBKXdV7mXLG4UlvNMV/view?usp=sharing](https://drive.google.com/file/d/1FC4K3E9eX3ZkbbbBKXdV7mXLG4UlvNMV/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jrl_Jj5Hb_xUm3fHgQjGwppoUjxT8XEM/view?usp=sharing](https://drive.google.com/file/d/1jrl_Jj5Hb_xUm3fHgQjGwppoUjxT8XEM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
