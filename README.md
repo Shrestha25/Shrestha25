@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrestha Pratap Singh</h1>
-<h3 align="center">A passionate frontend developer and competitive programmer from India</h3>
+<h3 align="center">A passionate software developer and competitive programmer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrestha25" alt="shrestha25" /></a> </p>
 
