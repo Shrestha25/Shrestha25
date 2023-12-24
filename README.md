@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrestha25" alt="shrestha25" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://shrestha25.github.io/Myprofile/](https://shrestha25.github.io/Myprofile/)
-
 - 📫 How to reach me **25shrestha97@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jrl_Jj5Hb_xUm3fHgQjGwppoUjxT8XEM/view?usp=sharing](https://drive.google.com/file/d/1jrl_Jj5Hb_xUm3fHgQjGwppoUjxT8XEM/view?usp=sharing)
